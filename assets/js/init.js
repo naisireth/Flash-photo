@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     var elems = document.querySelectorAll('.slider');
      var instances = M.Slider.init(elems, {
         indicators: false,
-        height: 592,
+        height: 678,
         duration: 500,
         interval:3000
      });
